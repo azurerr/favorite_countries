@@ -1,0 +1,2 @@
+rootProject.name = "Jihyun_Vacation"
+include ':app'
